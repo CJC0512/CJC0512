@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center>
+<div align="center">
 
     ![CJC0512's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJC0512&show_icons=true&theme=transparent)
 
