@@ -2,6 +2,8 @@
 
 
 <div align="center">
+
+안녕하세요!
   
 ![CJC0512's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJC0512&show_icons=true&theme=transparent)
 
