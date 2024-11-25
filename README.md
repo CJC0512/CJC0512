@@ -3,16 +3,15 @@
 
 <div align="center">
 
-안녕하세요!
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/CJC0512?pet-id=648725958691636684"
+    src="https://render.gitanimals.org/lines/CJC0512"
     width="600"
     height="120"
   />
 </a>
+  
   
   
 ![CJC0512's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJC0512&show_icons=true&theme=transparent)
